@@ -17,6 +17,7 @@ body {
 }
 
 #general-container {
+    min-width: 300px;
     width: 90%;
     max-width: 335px;
     margin: 60px 20px;
